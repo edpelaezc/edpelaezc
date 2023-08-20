@@ -28,7 +28,7 @@
 
 
 ### 💡 Featured projects
-- Apple Pay implementation
+- Apple Pay implementation for issuer Banco Industrial in Guatemala
 - Issuer CLM for credit/debit cards (Visa/Mastercard)
 
 <div>
