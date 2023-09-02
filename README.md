@@ -1,6 +1,5 @@
 # Eduardo Peláez
 
-(https://hits.seeyoufarm.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/edpelaezc)](https://twitter.com/edpelaezc)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-peláez-7992bb1a4/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/edpelaezc/)](https://www.instagram.com/edpelaezc)
