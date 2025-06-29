@@ -6,7 +6,7 @@
 
 [![Github](https://img.shields.io/github/followers/edpelaezc?label=Follow&style=social)](https://github.com/edpelaezc)
 
-- 💻 Working at Banco Industrial Guatemala as Tech Lead and interested in digital payments
+- 💻 Working at Grupo Distelsa Guatemala as Software Architect
 - 📚 I’m currently reading [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/). Check it out if interested.
 
 
